@@ -4,12 +4,12 @@
 
 <div align="center">
   <a href="https://github.com/RossanGR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rossangr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossangr&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="48%"  height="180em" src="https://github-readme-stats.vercel.app/api?username=rossangr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="48%"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossangr&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  <br>
  <br>
- 
+ <br>
   
 <div align="center">
   <img title="HTML" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
